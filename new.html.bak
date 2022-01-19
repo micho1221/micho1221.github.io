@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title> Michel Katrib's Website </title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	
+	</head>
+	
+	
+	
+	
+	<body>
+	
+		<section class="container">
+			<div class="half-width">
+				<h1> Welcome to <span class="green-color">Michel Katrib</span>'s World! </h1>
+				<h3> Student, athlete, and musician... </h3>
+				<p> Lebanese school student, beginner in coding, table-tennis player, guitarist... Who cares about all of that? You obviously: Because you're reading my PERSONAL WEBSITE. I'm Michel Katrib, and in this website, we are gonna talk about something very important: ME. </p>
+				<br>
+				<a href="https://www.instagram.com/michelkatrib_" class="primary-btn"> My Insta! </a>
+			</div>
+			<div class="half-width">
+				<img src="Images/ME-TOPBANNER.jpg" class="side-img">
+			</div>
+		</section>
+		
+		<section class="container">
+			<div class="half-width">
+				<img src="Images/WORKING.jpeg" class="side-img" id="working-image"> </img>
+			</div>
+			<div class="half-width">
+				<h2> BIG DREAM </h2>
+				<h4> Success. </h4>
+				<p> Certain things in our lifes give us this ability to create, inspire, <b>dream</b>. I felt this when i first saw my laptop. To me, the biggest goal, I yet have to achieve is success. I see that people who wish for specific things (own Apple) will never achieve their goal. Instead, they have to aim for success, and work for it, and consider their specific objective as a part of this success and not all of it. To me, I repeat: Success is my dream. And success, is peace around family members, success is a normal life, sucess is being rich, having money, travelling, having fun: being able to help the others. This is success: this is my dream. </p>
+				<br>
+				<a class="primary-btn" href="#"> Email: michelkatrib06@icloud.com </a>
+			</div>
+		</section>
+		
+		<section class="container experiences">
+			<h2> Experience </h2>
+			<div class="experience-item">
+				<h3> My Office Journey </h3>
+				<p class="green-color"> Proffesional Office User, 2021 </p>
+				<p> I received 2 certificates from microsoft concerning both Microsoft Word and Microsoft PowerPoint, after participating in the MOS CHAMPIONSHIP for 2 years in a row (2020 and 2021). I now am able to master both the programms.
+			</div>
+			
+		
+		</section>
+	</body>
+</html>
